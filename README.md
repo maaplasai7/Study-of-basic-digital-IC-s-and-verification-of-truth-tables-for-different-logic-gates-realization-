@@ -80,7 +80,8 @@ endmodule
 Logic symbol & Truthtable
 RTL realization
 Output:
-![image](https://github.com/maaplasai7/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/134155273/bbb3ef28-c540-44f9-b757-a16d313ef2a3)
+![image](https://github.com/maaplasai7/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/134155273/14b8042a-ef4c-41a1-bd0d-4904e1969e6a)
+
 
 RTL
 ![image](https://github.com/maaplasai7/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/134155273/c61543ee-c510-4368-a763-fb8459fe9369)
