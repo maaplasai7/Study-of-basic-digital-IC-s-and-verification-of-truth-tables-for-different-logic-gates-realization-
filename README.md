@@ -59,8 +59,8 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:M.Saidharshan.
+RegisterNumber:  212222050049
 ~~~
 module logicalgates (a,b,o1,o2,o3,o4,o5,o6,o7);
 input a,b;
